@@ -1,0 +1,4 @@
+{
+    "dart.showDebuggerNumbersAsHex": true,
+    "dart.suppressTestTimeouts": "always"
+}
